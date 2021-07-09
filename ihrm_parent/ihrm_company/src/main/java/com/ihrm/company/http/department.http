@@ -1,0 +1,8 @@
+GET http://localhost:9001/company/department/1063676045212913664
+Accept: application/json
+
+###
+GET http://localhost:9001/company/department
+Accept: application/json
+
+###

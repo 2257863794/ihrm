@@ -1,0 +1,8 @@
+GET http://localhost:9002/sys/user/1063705989926227968
+Accept: application/json
+
+###
+GET http://localhost:9002/sys/user?page=1&size=10
+Accept: application/json
+
+###
